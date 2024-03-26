@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Almir Dias</h1>
 <h3 align="center">Excited web developer eager for this career journey!</h3>
 
-- 💬 Ask me about **Ruby, JavaScript, and mobile applications.**
+<div display="flex" gap="20px">
+  <a target="_blank" align="center">
+    <img align="right" top="500" height="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  </a>
 
-- 📫 How to reach me **almir.maradei@gmail.com**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/ogirk7i3sc](https://flowcv.com/resume/ogirk7i3sc)
-
-- ⚡ Fun fact **Beyond being a programmer, I hold a degree in audiovisual studies. I have a passion for cinema, Spider-Man, and Corinthians football club.**
+  <div>
+  - 💬 Ask me about **Ruby, JavaScript, and mobile applications.**
+  
+  - 📫 How to reach me **almir.maradei@gmail.com**
+  
+  - 📄 Know about my experiences [https://flowcv.com/resume/ogirk7i3sc](https://flowcv.com/resume/ogirk7i3sc)
+  
+  - ⚡ Fun fact **Beyond being a programmer, I hold a degree in audiovisual studies. I have a passion for cinema, Spider-Man, and Corinthians football club.**
+  </div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
